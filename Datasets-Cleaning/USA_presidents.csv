@@ -1,0 +1,48 @@
+Unnamed: 0.1,Unnamed: 0,S.No.,president,prior,party,vice,salary,date updated,date created
+0,0,1,George Washington,Commander-in-Chief  of the  Continental Army   ( 1775â€“1783 ),Nonpartisan,John Adams,,2021-07-14,2012-03-04
+1,1,2,john adams,1st  Vice President of the United States,,Thomas Jefferson,"$10,0,00",2021-07-14,2012-03-04
+2,2,3,,2nd  Vice President of the United States,Democratic-  Republican,    Aaron Burr,,2021-07-14,2012-03-04
+3,3,4,James Madison,5th  United States Secretary of State   (1801â€“1809),,George    Clinton,"$20,0,00",2021-07-14,
+4,4,5,,7th  United States Secretary of State   (1811â€“1817),Democratic-  Republican,Daniel D. Tompkins,"$25,0,00",,2012-03-04
+5,5,6,John Quincy Adams,8th  United States Secretary of State   (1817â€“1825),Democratic-  Republican,John C. Calhoun,"$30,0,00",2021-07-14,2012-03-04
+6,6,7,Andrew Jackson,U.S. Senator   ( Class 2 )   from  Tennessee   (1823â€“1825),Democratic,John C.     Calhoun,"$35,0,00",2021-07-14,2012-03-04
+7,7,8,Martin Van Buren,8th  Vice President of the United States,Democratic,Richard Mentor Johnson,"$40,0,00",2021-07-14,2012-03-04
+8,8,9,William Henry Harrison,United States Minister to Colombia   (1828â€“1829),Whig,John Tyler,"$45,0,00",2021-07-14,2012-03-04
+9,9,10,john tyler,10th  Vice President of the United States,"Whig   April 4, 1841  â€“  September 13, 1841",Office vacant,"$50,0,00",2021-07-14,2012-03-04
+10,10,11,James K. Polk,9th  Governor of Tennessee   (1839â€“1841),Democratic,George         M. Dallas,"$55,0,00",2021-07-14,2012-03-04
+11,11,12,Zachary Taylor,Major General  of the  1st Infantry Regiment   United States Army   (1846â€“1849),Whig,               Millard Fillmore,"$60,0,00",2021-07-14,2012-03-04
+12,12,13,Millard Fillmore,12th  Vice President of the United States,Whig,Office vacant,"$65,0,00",2021-07-14,2012-03-04
+13,13,14,Franklin Pierce,Brigadier General  of the  9th Infantry   United States Army   (1847â€“1848),Democratic,William R. King,"$75,0,00",2021-07-14,2012-03-04
+14,14,15,James Buchanan,United States Minister  to the   Court of St James's   (1853â€“1856),Democratic,John C. Breckinridge,"$85,0,00",2021-07-14,2012-03-04
+15,15,16,Abraham Lincoln,U.S. Representative  for  Illinois' 7th District   (1847â€“1849),Republican,Hannibal Hamlin,"$95,0,00",2021-07-14,2012-03-04
+16,16,17,Andrew Johnson,16th  Vice President of the United States,Democratic,Office vacant,"$10,5,000",2021-07-14,2012-03-04
+17,17,18,Ulysses S. Grant,Commanding General  of the U.S. Army   ( 1864â€“1869 ),Republican,Schuyler Colfax,"$11,5,000",2021-07-14,2012-03-04
+18,18,19,Rutherford B. Hayes,29th & 32nd  Governor of Ohio   (1868â€“1872 & 1876â€“1877),Republican,William A. Wheeler,"$12,5,000",2021-07-14,2012-03-04
+19,19,20,James A. Garfield,U.S. Representative  for  Ohio's 19th District   (1863â€“1881),Republican,Chester A. Arthur,"$13,5,000",2021-07-14,2012-03-04
+20,20,21,Chester A. Arthur,20th  Vice President of the United States,Republican,Office vacant,"$14,5,000",2021-07-14,2012-03-04
+21,21,22,Grover Cleveland,28th  Governor of New York   (1883â€“1885),Democratic,Thomas A. Hendricks,"$15,5,000",2021-07-14,2012-03-04
+22,22,23,Benjamin Harrison,U.S. Senator   ( Class 1 )   from  Indiana   (1881â€“1887),Republican,Levi P. Morton,"$16,5,000",2021-07-14,2012-03-04
+23,23,24,Grover Cleveland,22nd  President of the United States   (1885â€“1889),Democratic,Adlai Stevenson,"$17,5,000",2021-07-14,2012-03-04
+24,24,25,William McKinley,39th  Governor of Ohio   (1892â€“1896),Republican,Garret Hobart,"$18,5,000",2021-07-14,2012-03-04
+25,25,26,Theodore Roosevelt,25th  Vice President of the United States,Republican,Office vacant,"$19,5,000",2021-07-14,2012-03-04
+26,26,27,William Howard Taft,42nd  United States Secretary of War   (1904â€“1908),Republican,James S. Sherman,"$20,5,000",2021-07-14,2012-03-04
+27,27,28,Woodrow Wilson,34th  Governor of New Jersey   (1911â€“1913),Democratic,Thomas R. Marshall,"$22,5,000",2021-07-14,2012-03-04
+28,27,28,Woodrow Wilson,34th  Governor of New Jersey   (1911â€“1913),Demorcatic,Thomas R. Marshall,"$22,5,000",2021-07-14,2012-03-04
+29,28,29,Warren G. Harding,U.S. Senator   ( Class 3 )   from  Ohio   (1915â€“1921),Republican,Calvin Coolidge,"$23,5,000",2021-07-14,2012-03-04
+30,29,30,Calvin Coolidge,29th  Vice President of the United States,Republican,Office vacant,"$24,5,000",2021-07-14,2012-03-04
+31,30,31,Herbert Hoover,3rd  United States Secretary of Commerce   (1921â€“1928),Republican,Charles Curtis,"$25,5,000",2021-07-14,2012-03-04
+32,31,32,Franklin D. Roosevelt,44th  Governor of New York   ( 1929â€“1932 ),Democratic,John Nance Garner,"$26,5,000",2021-07-14,2012-03-04
+33,32,33,Harry S. Truman,34th  Vice President of the United States,Democratic,Office vacant,"$27,5,000",2021-07-14,2012-03-04
+34,33,34,Dwight D. Eisenhower,Supreme Allied Commander Europe   ( 1949â€“1952 ),Republican,Richard Nixon,"$28,5,000",2021-07-14,2012-03-04
+35,34,35,John F. Kennedy,U.S. Senator   ( Class 1 )   from  Massachusetts   (1953â€“1960),Democratic,Lyndon B. Johnson,"$29,5,000",2021-07-14,2012-03-04
+36,35,36,Lyndon B. Johnson,37th  Vice President of the United States,Democratic,Office vacant,"$30,5,000",2021-07-14,2012-03-04
+37,36,37,Richard Nixon,36th  Vice President of the United States   (1953â€“1961),Republican,Spiro Agnew,"$31,5,000",2021-07-14,2012-03-04
+38,37,38,Gerald Ford,40th  Vice President of the United States,Republican,Office vacant,"$32,5,000",2021-07-14,2012-03-04
+39,38,39,Jimmy Carter,76th  Governor of Georgia   (1971â€“1975),Democratic,Walter Mondale,"$33,5,000",2021-07-14,2012-03-04
+40,39,40,Ronald Reagan,33rd  Governor of California   ( 1967â€“1975 ),Republican,George H. W. Bush,"$34,5,000",2021-07-14,2012-03-04
+41,40,41,George H. W. Bush,43rd  Vice President of the United States,Republican,Dan Quayle,"$35,5,000",2021-07-14,2012-03-04
+42,41,42,Bill Clinton,40th & 42nd  Governor of Arkansas   (1979â€“1981 & 1983â€“1992),Democratic,Al Gore,"$36,5,000",2021-07-14,2012-03-04
+43,42,43,George W. Bush,46th  Governor of Texas   ( 1995â€“2000 ),Republican,Dick Cheney,"$37,5,000",2021-07-14,2012-03-04
+44,43,44,Barack Obama,U.S. Senator   ( Class 3 )   from  Illinois   ( 2005â€“2008 ),Democratic,Joe Biden,"$39,5,000",2021-07-14,2020-02-01
+45,43,44,Barack Obama,U.S. Senator   ( Class 3 )   from  Illinois   ( 2005â€“2008 ),Democratic,Joe Biden,"$39,5,000",2021-07-14,2020-02-01
+46,44,45,Donald Trump,Chairman of   The Trump Organization   ( 1971â€“present ),Republicans,Mike Pence,"$40,5,000",2021-07-14,2020-02-01
