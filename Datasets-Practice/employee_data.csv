@@ -1,0 +1,17 @@
+emp_id,full_name,age,gender,department,salary,join_date,exp_years,emp_status
+101,John A. Smith,28.0,male,Sales,45000.0,2017-08-19,5.0,permanent
+102,Sarah-Louise James,,female,Marketing,50000.0,2018-11-03,,permanent
+110,Rajesh Kumar,45.0,male,Sales,90000.0,2010-02-23,14.0,permanent
+103,Mark O'Donnell,35.0,male,HR,52000.0,2016-03-11,8.0,
+104,Emily Jackson-Smith,29.0,female,R&D,65000.0,,6.0,contract
+102,Sarah-Louise James,,female,Marketing,50000.0,2018-11-03,,permanent
+110,Rajesh Kumar,45.0,male,Sales,90000.0,2010-02-23,14.0,permanent
+105,Samuel L. Jackson,42.0,Male,IT,,2015-07-01,12.0,permanent
+106,Priya Ghosh,31.0,,Marketing,58000.0,2019-01-10,4.0,contract
+102,Sarah-Louise James,,female,Marketing,50000.0,2018-11-03,,permanent
+110,Rajesh Kumar,45.0,male,Sales,90000.0,2010-02-23,14.0,permanent
+107,Susan M. Thompson,39.0,Female,IT,75000.0,2014-09-21,,permanent
+108,Brian P. McDonald,33.0,Male,HR,48000.0,2017-04-15,6.0,permanent
+109,Sophia Y. Richardson,26.0,Female,IT,55000.0,2020-05-30,3.0,contract
+110,Rajesh Kumar,45.0,male,Sales,90000.0,2010-02-23,14.0,permanent
+102,Sarah-Louise James,,female,Marketing,50000.0,2018-11-03,,permanent
